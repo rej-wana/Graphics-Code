@@ -126,11 +126,7 @@ int main()
 void Info()
 {
     printf("\n\n=============================================\n");
-    printf("Submitted By :\n\n");
     printf("Name: Kanij Rejwana Tamim\n");
-    printf("ID: CSE2102023058\n");
-    printf("Section: Oracle 23A\n");
-    printf("Course Title: Computer Graphics\n\n");
     printf("=============================================\n\n");
 
 }
